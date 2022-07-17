@@ -10,9 +10,9 @@ print(db)
 # print(db)
 
 d = {
-    "name" : "ajay",
-    "email" : "ajaykeshi@gmail.com",
-    "surname" : "keshi"
+    "name" : "parth",
+    "email" : "parth@gmail.com",
+    "surname" : "mehta"
 }
 
 db1 = client['mon_test']
